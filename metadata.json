@@ -1,0 +1,6 @@
+{
+  "name": "SnapVex Studio OS",
+  "description": "An enterprise-grade AI-powered Photography Studio CRM & Media Management platform with hybrid storage architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
